@@ -59,9 +59,6 @@ Currently working as a Senior Analyst in Modern Workplace Engineering, helping o
 ### AWS S3 Backup Automation
 Automated local file backups to Amazon S3 using Python and Boto3.
 
-### Jenkins CI/CD Pipeline Lab
-End-to-end CI/CD implementation with testing, containerization, and deployment.
-
 ### GitHub Actions Automation
 Automated code validation, testing, and release workflows.
 
