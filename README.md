@@ -1,76 +1,95 @@
-# Hi there, I'm Caiuã Pereira da Costa 👋
+# Hi, I'm Caiuã Pereira 👋
 
-## Senior Analyst | Modern Workplace Engineering | Cloud & DevOps Engineer
+## DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
-Technology professional with 6+ years of experience supporting enterprise environments, cloud platforms, infrastructure modernization, automation, and customer-facing operations.
+Passionate about building scalable, reliable, and automated platforms that empower teams to deliver faster and safer.
 
-Currently working as a Senior Analyst in Modern Workplace Engineering, helping organizations improve reliability, efficiency, and scalability across Microsoft and cloud ecosystems.
-
----
-
-## 🚀 About Me
-
-- ☁️ Cloud enthusiast specializing in Azure and AWS
-- 🖥️ Experienced with Windows Server, Active Directory, and Microsoft 365
-- 🐧 Linux administration and troubleshooting
-- ⚙️ Automation using PowerShell, Bash, and Python
-- 🐳 Containerization with Docker and Kubernetes
-- 🔄 CI/CD pipelines with GitHub Actions and Jenkins
-- 🔐 Identity & Access Management (OAuth, SAML, OIDC)
-- 📊 Monitoring, Observability, and Incident Management
-- 🤝 Strong customer-facing and technical leadership experience
+With experience in cloud infrastructure, CI/CD pipelines, containerized workloads, automation, and enterprise operations, I focus on bridging the gap between development and operations through DevOps practices and modern cloud technologies.
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 What I Do
 
-### Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+🔹 Design and maintain CI/CD pipelines
+
+🔹 Automate infrastructure and operational processes
+
+🔹 Deploy and manage containerized applications
+
+🔹 Improve reliability, monitoring, and observability
+
+🔹 Support cloud-native and hybrid environments
+
+🔹 Implement Infrastructure as Code practices
+
+---
+
+## 🛠 DevOps Toolbox
+
+### Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ### Containers & Orchestration
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### DevOps & Automation
+### CI/CD
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Scripting & Infrastructure
+### Infrastructure & Automation
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📚 Currently Learning
+### Monitoring & Observability
 
-- Advanced Kubernetes
-- Terraform & Infrastructure as Code
-- GitOps
-- AWS Solutions Architecture
-- Platform Engineering
-- Site Reliability Engineering (SRE)
-- Modern Observability
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### AWS S3 Backup Automation
-Automated local file backups to Amazon S3 using Python and Boto3.
+### CI/CD Platform with Jenkins
+Automated build, testing, Docker image creation, and deployment workflows.
 
 ### GitHub Actions Automation
-Automated code validation, testing, and release workflows.
+PR validation, automated testing, semantic versioning, and release pipelines.
 
-### Kubernetes Homelab
-Container orchestration, services, ingress management, and deployment strategies.
+### AWS S3 Backup Automation
+Automated backup solution using Python, AWS S3, lifecycle policies, and monitoring.
 
-### PowerShell Administration Toolkit
-Scripts for Microsoft 365, Active Directory, monitoring, and operational automation.
+### Kubernetes Lab
+Deployments, Services, Ingress, ConfigMaps, Secrets, and production-ready practices.
+
+### Infrastructure Automation
+PowerShell and Python scripts used to automate operational tasks and infrastructure management.
 
 ---
 
-## 📈 GitHub Statistics
+## 📚 Currently Learning
+
+- Terraform
+- GitOps
+- ArgoCD
+- Platform Engineering
+- Kubernetes Administration
+- Cloud Architecture
+- Site Reliability Engineering (SRE)
+
+---
+
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiuacosta337&show_icons=true&theme=tokyonight)
 
@@ -78,8 +97,8 @@ Scripts for Microsoft 365, Active Directory, monitoring, and operational automat
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Mission
 
-Building reliable, scalable, and automated cloud solutions while continuously improving operational excellence and customer experience.
+Automate everything possible, improve reliability, reduce operational toil, and build scalable platforms that help teams move faster.
 
-> "Automation first. Reliability always. Learning never stops."
+> "You don't scale by working harder. You scale by automating smarter."
