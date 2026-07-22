@@ -88,17 +88,3 @@ PowerShell and Python scripts used to automate operational tasks and infrastruct
 - Site Reliability Engineering (SRE)
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiuacosta337&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiuacosta337&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Mission
-
-Automate everything possible, improve reliability, reduce operational toil, and build scalable platforms that help teams move faster.
-
-> "You don't scale by working harder. You scale by automating smarter."
